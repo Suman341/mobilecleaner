@@ -14,7 +14,7 @@ public class Calculator extends AppCompatActivity implements View.OnClickListene
     String displayNum = "";
     int num1,num2;
     int res;
-    String op, jg;
+    String op, jg, ms;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
